@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @ConsistentCoder9
-- 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 📫 How to reach me ?
-- Here's my discord Gon#1669
+- 👋 Hi, I’m Faizan
+- 👀 I spend most of my time learning DSA and practicing problems on CF
 
 <!---
 ConsistentCoder9/ConsistentCoder9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
